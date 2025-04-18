@@ -1,0 +1,17 @@
+Custom License for Personal, Non-Commercial Use
+
+Copyright (c) 2025 LHETHA
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and experiment with the Software **for personal and non-commercial purposes only**.
+
+You are NOT permitted to:
+- Redistribute the Software, in whole or in part, with or without modifications.
+- Share the Software publicly, either as source code or in compiled/binary form.
+- Use the Software in any commercial setting or for any purpose that involves generating income, directly or indirectly.
+- Sub-license, sell, lease, or offer the Software as a service or product.
+
+This license is granted for **private use only**. Any form of public distribution, commercial deployment, or sharing on platforms (e.g. GitHub forks, websites, video tutorials, etc.) is **strictly prohibited** unless explicit written permission is granted by the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For inquiries or special permissions, contact LHETHA privately.
