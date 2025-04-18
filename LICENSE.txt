@@ -1,5 +1,3 @@
-Custom License for Personal, Non-Commercial Use
-
 Copyright (c) 2025 LHETHA
 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and experiment with the Software **for personal and non-commercial purposes only**.
